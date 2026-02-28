@@ -1,0 +1,52 @@
+ body {
+            font-family: Arial, sans-serif;
+        }
+
+        .navbar {
+            background-color: #0f5132;
+        }
+
+        .navbar-brand,
+        .nav-link {
+            color: white !important;
+            font-weight: 500;
+        }
+
+        .hero img {
+            height: 600px;
+            object-fit: cover;
+        }
+
+        .about-section {
+            padding: 80px 0;
+        }
+
+        .category-section {
+            padding: 80px 0;
+            background-color: #f8f9fa;
+        }
+
+        .card img {
+            height: 250px;
+            object-fit: cover;
+        }
+
+        .contact-section {
+            padding: 80px 0;
+        }
+
+        footer {
+            background-color: #0f5132;
+            color: white;
+            padding: 20px 0;
+            text-align: center;
+        }
+
+        .btn-tea {
+            background-color: #198754;
+            color: white;
+        }
+
+        .btn-tea:hover {
+            background-color: #145c32;
+        }
