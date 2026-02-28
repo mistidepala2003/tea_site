@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mistidepala2003.github.io/tea_site/sitemap.xml
